@@ -1,6 +1,3 @@
-<script setup>
-
-</script>
 
 <template>
   <main>
@@ -27,3 +24,6 @@
     </form>
   </main>
 </template>
+<script setup>
+
+</script>
